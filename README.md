@@ -50,7 +50,7 @@ Firmware
 
 Schematic
 
-
+<img width="335" height="332" alt="image" src="https://github.com/user-attachments/assets/64ca63af-1278-47d4-bc52-86ebe0a64fda" />
 
 PCB
 
