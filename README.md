@@ -30,13 +30,13 @@ PCB
 
 ## Tools
 
-Test Firmware: Visual Studio Code (C++)
-Firmware: Arduino IDE (C++)
+- Test Firmware: Visual Studio Code (C++)
+- Firmware: Arduino IDE (C++)
     - Required Libraries:
     - Adafruit GFX Library
     - Adafruit SSD1306 //= Oled Screen
     - Adafruit ST7735 and ST7789 Library //= TFT LCD Screen
-Referance assembly: KICAD
+- Referance assembly: KICAD
 
 ## Extra
 
