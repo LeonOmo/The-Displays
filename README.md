@@ -4,7 +4,9 @@ This project main purpose is to showcase small pictures. The small oled display 
 
 ## Features
 
-- Multidislay operation 
+- Multidislay operation
+    - Display 1:
+    - Display 2:
 
 ## Components
 
