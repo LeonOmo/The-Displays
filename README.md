@@ -2,13 +2,19 @@
 
 ## What is this project?
 
-The Displays is a compact, multidisplay built around a perfboard to control two different screens simultaneously using a single Raspberry Pi Pico. 
+The Displays is a compact, multidisplay built around a perfboard to control two different screens using a single Raspberry Pi Pico. 
 
 ## What does it do?
 
 This project's main purpose is to showcase small pictures. 
 - 0.96" OLED Display: Used for black and white pixel art, designs, text, and names.
 - 1.8" TFT LCD Display: Used for full color pictures, small animations, or videos.
+
+## Why does this project exist?
+
+- Versatility: Ive never used the Raspberry Pi before and i want get accustemt to many microcontroller maybe even a logo or sps some day.
+- Perfboard Experience: Almost never use a perfboard a prototype i want to use a perfboard for this project and later maybe ill buy a PCB later hence i have already a finished design in KICAD.
+
 
 ## Features
 
