@@ -1,13 +1,21 @@
 # The-Displays
 
-This project main purpose is to showcase small pictures. The small oled display is for black and whote pixel art / designs / text / names, and the larger TFT LCD display is for full color pictures or small animations / videos.
+## What is this project?
+
+The Displays is a compact, multidisplay built around a perfboard to control two different screens simultaneously using a single Raspberry Pi Pico. 
+
+## What does it do?
+
+This project's main purpose is to showcase small pictures. 
+- 0.96" OLED Display: Used for black and white pixel art, designs, text, and names.
+- 1.8" TFT LCD Display: Used for full color pictures, small animations, or videos.
 
 ## Features
 
-- Multidislay operation
-    - Display 1:
-    - Display 2:
-
+- Multidisplay Operation: Running an I2C OLED and an SPI TFT display side-by-side.
+  - Display 1: 0.96" Monochrome OLED 
+  - Display 2: 1.8" ST7735 Color TFT
+  
 ## Components
 
 - Microcontroller: Raspberry Pi Pico
