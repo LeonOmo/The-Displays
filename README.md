@@ -48,8 +48,4 @@ No Bat allowed :(
 
 Idea sketch before i made it for 2 displays.
 
-
-
-
-
-
+<img width="544" height="333" alt="image" src="https://github.com/user-attachments/assets/f083dd3d-d42d-4b34-af7c-959f21b47bae" />
