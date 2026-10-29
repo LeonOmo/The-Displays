@@ -59,7 +59,7 @@ PCB
 
 ## Extra
 
-Pico Pico Pico Pico
+First for me using a perfboard and the raspberry pi`s. Pico Pico Pico Pico
 
 ## Bonus
 
