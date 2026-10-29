@@ -16,19 +16,15 @@ This project main purpose is to showcase small pictures. The small oled display 
 - Board/PCB: Perfboard (Designed for Pi Pico)
 - Wires: Wires to connect componets on the perfboard which i cant connect only with solder.
 
-## Firmware
+## BOM
 
-
-
-## KICAD Refernace
-
-Schematic
-
-
-
-PCB
-
-
+| Component | Description |
+| :--- | :--- |
+| Microcontroller | Raspberry Pi Pico |
+| Display 1 | 0.96" OLED Display |
+| Display 2 | 1.8" ST7735 Color Display |
+| Board | Perfboard |
+| Wiring | Hookup wires for connections not bridged by solder |
 
 ## Tools
 
@@ -38,7 +34,28 @@ PCB
     - Adafruit GFX Library
     - Adafruit SSD1306 //= Oled Screen
     - Adafruit ST7735 and ST7789 Library //= TFT LCD Screen
-- Referance assembly: KICAD
+- Reference assembly: KICAD
+
+## Firmware
+
+Display Test Firmware
+
+<img width="298" height="449" alt="Screenshot 2026-10-28 195900" src="https://github.com/user-attachments/assets/8ef32677-2a59-49bb-8c0d-b62ecc4e45ed" />
+
+Firmware
+
+
+
+## KICAD Refernece
+
+Schematic
+
+
+
+PCB
+
+<img width="483" height="654" alt="Screenshot 2026-10-27 182810" src="https://github.com/user-attachments/assets/15ce21a4-8c5a-4050-af66-9f6186e934cb" />
+
 
 ## Extra
 
