@@ -54,7 +54,7 @@ Schematic
 
 PCB
 
-<img width="183" height="354" alt="Screenshot 2026-10-27 182810" src="https://github.com/user-attachments/assets/15ce21a4-8c5a-4050-af66-9f6186e934cb" />
+<img width="283" height="354" alt="Screenshot 2026-10-27 182810" src="https://github.com/user-attachments/assets/15ce21a4-8c5a-4050-af66-9f6186e934cb" />
 
 
 ## Extra
