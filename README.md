@@ -27,7 +27,7 @@ This project's main purpose is to showcase small pictures.
 - Microcontroller: Raspberry Pi Pico
 - Display 1: 0.96 Oled Display
 - Display 2: 1.8 ST7735 Color Display
-- Board/PCB: Perfboard (Designed for Pi Pico)
+- Board/PCB: Perfboard
 - Wires: Wires to connect componets on the perfboard which i cant connect only with solder.
 
 ## BOM
