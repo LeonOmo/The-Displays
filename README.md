@@ -73,6 +73,8 @@ PCB
 
 ## Extra
 
+Credits: Omocat //i used images from the game "Omori"
+
 First for me using a perfboard and the raspberry pi`s. Pico Pico Pico Pico
 
 ## Bonus
