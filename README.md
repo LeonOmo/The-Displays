@@ -1,4 +1,4 @@
-# The-Displays
+# The Displays
 
 ## What is this project?
 
