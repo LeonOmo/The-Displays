@@ -42,6 +42,7 @@ This project's main purpose is to showcase small pictures.
 
 ## Tools
 
+- Image convertion: https://img2lcd.com/
 - Test Firmware: Visual Studio Code (C++)
 - Firmware: Arduino IDE (C++)
     - Required Libraries:
