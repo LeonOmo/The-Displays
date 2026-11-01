@@ -73,12 +73,13 @@ PCB
 
 ## Extra
 
+First for me using a perfboard and the raspberry pi`s. Pico Pico Pico Pico
+
 Credits: 
 
 Omocat //i used images from the game "Omori"
-img2lcd.com //for the image to code convertion
 
-First for me using a perfboard and the raspberry pi`s. Pico Pico Pico Pico
+img2lcd.com //for the image to code convertion
 
 ## Bonus
 
