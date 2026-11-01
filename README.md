@@ -57,7 +57,7 @@ Display Test Firmware
 
 <img width="298" height="449" alt="Screenshot 2026-10-28 195900" src="https://github.com/user-attachments/assets/8ef32677-2a59-49bb-8c0d-b62ecc4e45ed" />
 
-<img width="825" height="571" alt="Screenshot 2026-10-31 155540" src="https://github.com/user-attachments/assets/2193b6a5-27ba-4792-8b9a-3f9254c304e2" />
+<img width="625" height="371" alt="Screenshot 2026-10-31 155540" src="https://github.com/user-attachments/assets/2193b6a5-27ba-4792-8b9a-3f9254c304e2" />
 
 Firmware
 
