@@ -18,7 +18,7 @@ This project's main purpose is to showcase small pictures.
 
 ## Features
 
-- Multidisplay Operation: Running an I2C OLED and an SPI TFT display side-by-side.
+- Multidisplay Operation: Running an I2C OLED and an SPI TFT display.
   - Display 1: 0.96" Monochrome OLED 
   - Display 2: 1.8" ST7735 Color TFT
   
