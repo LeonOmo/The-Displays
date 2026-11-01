@@ -61,7 +61,7 @@ Display Test Firmware
 
 Firmware
 
-<img width="788" height="796" alt="image" src="https://github.com/user-attachments/assets/f899ab5f-6c45-4bab-92e3-e02139d24982" />
+<img width="488" height="496" alt="image" src="https://github.com/user-attachments/assets/f899ab5f-6c45-4bab-92e3-e02139d24982" />
 
 ## KICAD Refernece
 
